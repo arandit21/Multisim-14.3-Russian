@@ -1,0 +1,769 @@
+{
+  "archive_sha256": "0b537ce418331ad72bd1abab74e4a1764a6f93efa4084e114fbd3a5530ec0a5a",
+  "archive_bytes": 548342,
+  "archive_crc_passed": true,
+  "relative_paths_checked": true,
+  "language_file_count": 146,
+  "total_file_count": 151,
+  "archive_contents_unchanged": true,
+  "gui_runtime_tested": false,
+  "update_scripts_executed": false,
+  "english_resource_id_and_placeholder_comparison_repeated": false,
+  "files": [
+    {
+      "path": "README_RU_VIDEO_CORRECTIVE.txt",
+      "bytes": 1893,
+      "sha256": "175ad3c092adbb0f9485e2663d9a347b8ae9a509a599be3c91a0b591814edd24"
+    },
+    {
+      "path": "stringfiles/Russian/Autoroute.ewstr",
+      "bytes": 8982,
+      "sha256": "8b3521b2e59854a615f0977f175dcb09afae33f8dc8fe8a2c2e960ee1e322b06"
+    },
+    {
+      "path": "stringfiles/Russian/Transf_Nonlinear.ewstr",
+      "bytes": 6254,
+      "sha256": "bf8bc4f6915a3702053236e42b1036884f72024b7a2c76354f0d4dbaad38f785"
+    },
+    {
+      "path": "stringfiles/Russian/SimulationServer.ewstr",
+      "bytes": 9788,
+      "sha256": "a966341cfce4ccdf2103946c0046782e1ff0ec4865c2f188a2c6ea3494a63b6c"
+    },
+    {
+      "path": "stringfiles/Russian/Transf_Linear.ewstr",
+      "bytes": 5632,
+      "sha256": "5f33ec07e3c7825627980dd59c21d8f41ac8c4a44e19c934fc15ed42b85ef2cb"
+    },
+    {
+      "path": "stringfiles/Russian/UCWDLL.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/ComUtilities_SnapIn.ewstr",
+      "bytes": 2828,
+      "sha256": "fde5df9357a0c9400c6d1b7f2a1c8e85c18343d9df6646d885e29f5b531977ce"
+    },
+    {
+      "path": "stringfiles/Russian/EwbBase.ewstr",
+      "bytes": 17694,
+      "sha256": "6d0be06435e436e59a3f90b6bea3b077c23f90e7a4530f51bc940ae62cadcdce"
+    },
+    {
+      "path": "stringfiles/Russian/CNC_SnapIn.ewstr",
+      "bytes": 34382,
+      "sha256": "014455e6c3b9b32c8e6fc4cc89ee244ccb31c6cc7224e432e12aa74c1acb3a7b"
+    },
+    {
+      "path": "stringfiles/Russian/PlugInManagement.ewstr",
+      "bytes": 2480,
+      "sha256": "906c42baaf5f1f5f37890cde08b84763b8c4d7e91715c86ae307f881f60932af"
+    },
+    {
+      "path": "stringfiles/Russian/InstrumentAgency_SnapIn.ewstr",
+      "bytes": 5076,
+      "sha256": "966a98d5b57b07f10e7e708166508fa300e880a77ba079569cd86344f5aacf2d"
+    },
+    {
+      "path": "stringfiles/Russian/TransExt.ewstr",
+      "bytes": 3328,
+      "sha256": "123ece03423814f907aa3dc4159f019e5cab4d23e34bb4394fda771f9d91a4e4"
+    },
+    {
+      "path": "stringfiles/Russian/PCBCalculator.ewstr",
+      "bytes": 11720,
+      "sha256": "34bd6a54e49b5090c1a9d77d21e040977afb18d6f7966bbf4c9875e9efa0ee38"
+    },
+    {
+      "path": "stringfiles/Russian/sharutil.ewstr",
+      "bytes": 5686,
+      "sha256": "922be90915cdea2b0e27896a62c3e25bc7367576a4f1036902747e6f4daf1519"
+    },
+    {
+      "path": "stringfiles/Russian/OscilloscopeManager_tk_SnapIn.ewstr",
+      "bytes": 4394,
+      "sha256": "7a85330e279d71e41fb681ce2ad481ba1392e64cece69adb73af12ba14dd0d3e"
+    },
+    {
+      "path": "stringfiles/Russian/Connect.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/spiceifs.xstr",
+      "bytes": 2855,
+      "sha256": "7cb4f5bf68924fd17c05acc98e1cbde4703c1388bf1f1926df01bd315a257bee"
+    },
+    {
+      "path": "stringfiles/Russian/Nets.ewstr",
+      "bytes": 3266,
+      "sha256": "d66bcffb9f35966f9cf23cc46d69245cb2bbb96aba0eb2f4ac4acbd5579a6d62"
+    },
+    {
+      "path": "stringfiles/Russian/Boost_CVT.ewstr",
+      "bytes": 3184,
+      "sha256": "a80a0d0c40e4f954ff24562c2e30c6127d363f863fad28188ead5fe15354916f"
+    },
+    {
+      "path": "stringfiles/Russian/BodePlotterManager_SnapIn.ewstr",
+      "bytes": 5890,
+      "sha256": "435659e6bc14cf19b5d4215dd13cc05d8e9fbff8851e16c15a78df0f15c31786"
+    },
+    {
+      "path": "stringfiles/Russian/BjtExt.ewstr",
+      "bytes": 13700,
+      "sha256": "070fc85afa2a5a87d1a965bdf45e4b38a768e1dbff41b8b90883b9174bec08fb"
+    },
+    {
+      "path": "stringfiles/Russian/IMeterManager_SnapIn.ewstr",
+      "bytes": 3086,
+      "sha256": "2b6dab4ab20929d18f23c461994c0e9fe1627f555e290be55a1392dd306cb7ac"
+    },
+    {
+      "path": "stringfiles/Russian/WordGeneratorManager_SnapIn.ewstr",
+      "bytes": 7632,
+      "sha256": "149812093d4669b3cd885a97ec5e6b98cd099e8897b13c611b80c48c0f968a51"
+    },
+    {
+      "path": "stringfiles/Russian/InternalOnlyDll.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/xspicecontrol.xstr",
+      "bytes": 63,
+      "sha256": "b06ec68fa288bb1e30e7cc13bf089b992a0c51a2d915d13b63cd3290f626fedc"
+    },
+    {
+      "path": "stringfiles/Russian/MosfetExt.ewstr",
+      "bytes": 14682,
+      "sha256": "b538b320f12ea3ebd9b662680222b2f638e1ef60112b8fb30543e63058bcd436"
+    },
+    {
+      "path": "stringfiles/Russian/Cad.ewstr",
+      "bytes": 5562,
+      "sha256": "979cd50e2e1a3d8b22ab01ada66e335958b8b7668df30a7ef68fb6198d5e700a"
+    },
+    {
+      "path": "stringfiles/Russian/DrwContext.ewstr",
+      "bytes": 2132,
+      "sha256": "66f45f3c2308523616fa351d5a4f9486f868387e3089b7819621a15a590305af"
+    },
+    {
+      "path": "stringfiles/Russian/Scrext.ewstr",
+      "bytes": 6492,
+      "sha256": "f00d1a44439a2a3350b4fd1be22a378937491f19fc795009b4ef156d379151cf"
+    },
+    {
+      "path": "stringfiles/Russian/AngelScript.ewstr",
+      "bytes": 7098,
+      "sha256": "2b9a2577de800f96ab17b93fbdb8934b1a2738e93db1dbc1b44e2c8efe9ca85a"
+    },
+    {
+      "path": "stringfiles/Russian/SymConv.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/Database.ewstr",
+      "bytes": 8400,
+      "sha256": "242d30ccb7fd7017da6e79066bf7743d6c9ca1e0e555ed852d7b7eee577dded3"
+    },
+    {
+      "path": "stringfiles/Russian/XSPICE.xstr",
+      "bytes": 63,
+      "sha256": "b06ec68fa288bb1e30e7cc13bf089b992a0c51a2d915d13b63cd3290f626fedc"
+    },
+    {
+      "path": "stringfiles/Russian/Trans1Exit.ewstr",
+      "bytes": 3424,
+      "sha256": "b4846a8ae34235ff4c2e9d20841b63b09cf97afc974f85d37f65163263ebb445"
+    },
+    {
+      "path": "stringfiles/Russian/UTControlBar.ewstr",
+      "bytes": 9412,
+      "sha256": "4bfef9e102256f133a04a741afe142f089f477fdd09f951632f8ceb1f812a614"
+    },
+    {
+      "path": "stringfiles/Russian/Instruments.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/PCBRoute.ewstr",
+      "bytes": 26372,
+      "sha256": "87a85cef9f895a3eb32e34c73913d52e43b99cd36158d4979ecb81ccc585f071"
+    },
+    {
+      "path": "stringfiles/Russian/ZenerExt.ewstr",
+      "bytes": 5552,
+      "sha256": "31d0e5fdf586c3103253aa3dae9f5609f4e72d7e813c46307014cfc97306c479"
+    },
+    {
+      "path": "stringfiles/Russian/DistortionManager_SnapIn.ewstr",
+      "bytes": 5398,
+      "sha256": "1d685fc36c988ae602ca1aef5cc4dc29714dea4612027a9fa44cec544344ad1c"
+    },
+    {
+      "path": "stringfiles/Russian/PinGateSwap.ewstr",
+      "bytes": 3544,
+      "sha256": "4872cb6b91757f9084da706a5bbd5e93bd861cbfa5ac22c02c5bccf4dcceae72"
+    },
+    {
+      "path": "stringfiles/Russian/Scripting.ewstr",
+      "bytes": 2740,
+      "sha256": "e167ec838352d3c9d649296a245cac2062b8bd33b08ee3f695fbd712a7a4ea2d"
+    },
+    {
+      "path": "stringfiles/Russian/drset.ewstr",
+      "bytes": 13902,
+      "sha256": "3629bde08736eecad9647b8bc0732af23aeba439608f4eda8d8068e10e221516"
+    },
+    {
+      "path": "stringfiles/Russian/GenExport.ewstr",
+      "bytes": 13840,
+      "sha256": "da94be2f264916475f11e54028f8732a98a00bc0d0a701b0a7432da2a79d7ec1"
+    },
+    {
+      "path": "stringfiles/Russian/UB.ewstr",
+      "bytes": 190964,
+      "sha256": "aee56e3f875c12aee9e9252908f82466b8adb0b406ddff2efc6b67eec3c7dea5"
+    },
+    {
+      "path": "stringfiles/Russian/COMBase.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/PRP.ewstr",
+      "bytes": 131410,
+      "sha256": "65b2d6a35ef0fd0b5714699a7cf42b6129aaa449bed79a5554cc0c65518cbd8e"
+    },
+    {
+      "path": "stringfiles/Russian/EMISimServer.ewstr",
+      "bytes": 2720,
+      "sha256": "76c8787e9f0d0f49c0df5cedf088dbf257f9d6b851e6f40736e3ec97bf524bb7"
+    },
+    {
+      "path": "stringfiles/Russian/Educ.ewstr",
+      "bytes": 7292,
+      "sha256": "5ddcbc7dd2929c1c3baca1ccef7f29614350311357c4b84cc2ba072562b51012"
+    },
+    {
+      "path": "stringfiles/Russian/SymbEdit.ewstr",
+      "bytes": 32632,
+      "sha256": "9e161d618f1e5c40edd7f364321788ea2ad04b0416add04289069b38f134cb1a"
+    },
+    {
+      "path": "stringfiles/Russian/DDFLink.ewstr",
+      "bytes": 4698,
+      "sha256": "b6a814f7ba4a07721b85965e03ace3d7098b49e152a3d555a7a8c3c55d6dcf9b"
+    },
+    {
+      "path": "stringfiles/Russian/db_merge.ewstr",
+      "bytes": 1910,
+      "sha256": "c44a5f33b807e5ac517bb82336de350d0309600df5b84847f8f9f5bd7f779483"
+    },
+    {
+      "path": "stringfiles/Russian/OscilloscopeManager_4ch_SnapIn.ewstr",
+      "bytes": 6828,
+      "sha256": "58b447af5acb57cc5bddd375f94c42038415728382719ed744a11ffa8337730a"
+    },
+    {
+      "path": "stringfiles/Russian/NetworkAnalyzerManager_SnapIn.ewstr",
+      "bytes": 26848,
+      "sha256": "4cb4b42c20be6642d28f8b3671e7aab637a3a3c94f761805e7d0fc157e7cd07c"
+    },
+    {
+      "path": "stringfiles/Russian/BackAndForwardAnnotation.ewstr",
+      "bytes": 113284,
+      "sha256": "2da5f613f2654ca35691ebfd5e1a911521b30c9a7c59ded5968f3617f31be055"
+    },
+    {
+      "path": "stringfiles/Russian/Transf_Ideal.ewstr",
+      "bytes": 3922,
+      "sha256": "7bb284689467ee952aa2a9ed8c690b1c35f45ef65f7435bca120f52b7594b3a8"
+    },
+    {
+      "path": "stringfiles/Russian/SpiceifsSch.ewstr",
+      "bytes": 4588,
+      "sha256": "830533e66a576ddd1ae2f10f0664cd29885c4ba15275d9e0862d27958dd969bf"
+    },
+    {
+      "path": "stringfiles/Russian/DrwSel.ewstr",
+      "bytes": 20832,
+      "sha256": "6942770ee4b188c8328bc11d38ffff8160ae338621d242df798d38d94f8e87a0"
+    },
+    {
+      "path": "stringfiles/Russian/SVGExp.ewstr",
+      "bytes": 3816,
+      "sha256": "134dbbdb44a8ef908a1b7f294d1d0631e0d585ed0344e0f5d37ec6528bb2673d"
+    },
+    {
+      "path": "stringfiles/Russian/OscilloscopeManager_AT_SnapIn.ewstr",
+      "bytes": 4618,
+      "sha256": "cc5e24d94b1ad3af79a0e70111c7d7a2c437c9b0d7e4710930a0b4e1ae70b117"
+    },
+    {
+      "path": "stringfiles/Russian/EWB_Splash.ewstr",
+      "bytes": 10110,
+      "sha256": "ab97783fce5c7ca9c022a8e542ade3367ebcf0fec26871a5b54452460819a736"
+    },
+    {
+      "path": "stringfiles/Russian/LVMLibrary.ewstr",
+      "bytes": 3058,
+      "sha256": "df42ec0d25fc1595a54ccdae8ecba67db005315cc8af7caeee37412d13820124"
+    },
+    {
+      "path": "stringfiles/Russian/PLD.ewstr",
+      "bytes": 53632,
+      "sha256": "45d23fcc7712bd65d3d58f373822056de1547b973252b642bfcb4116905a2e4f"
+    },
+    {
+      "path": "stringfiles/Russian/IV_AnalyzerManager_SnapIn.ewstr",
+      "bytes": 5172,
+      "sha256": "c01c38516b7fafd83bd1654ab1227e238865a61dbb7427cfba5330d0304e0fbc"
+    },
+    {
+      "path": "stringfiles/Russian/TDMLibrary.ewstr",
+      "bytes": 4572,
+      "sha256": "70e92af7d2546e7b5539d9c1751ed1ec2f92ac1814f3f4c052e351a8c5e85bbe"
+    },
+    {
+      "path": "stringfiles/Russian/Db_Convert.ewstr",
+      "bytes": 24220,
+      "sha256": "f088b33adc518c17f290732eacb5a3a3fd64a8720e6eda10f7182c84de0d4d64"
+    },
+    {
+      "path": "stringfiles/Russian/DXFInterface.ewstr",
+      "bytes": 6330,
+      "sha256": "ab2ee793a2f8daa7573324fdfafc8304bb256a9b16bb4962c2323bfd13d857cb"
+    },
+    {
+      "path": "stringfiles/Russian/xspiceinterface.xstr",
+      "bytes": 174525,
+      "sha256": "d42bbf78cb5c1694e7eeea31dd393c9e17de62996ad588484994c54db93a043a"
+    },
+    {
+      "path": "stringfiles/Russian/Buck_BST_CVT.ewstr",
+      "bytes": 3194,
+      "sha256": "5dfb11b71838d2497d3826a3e000281f605a2b1dfe66baf78caf0d9716a195bc"
+    },
+    {
+      "path": "stringfiles/Russian/BCGControlBar.ewstr",
+      "bytes": 24296,
+      "sha256": "b1f79c750bf895eb072307bae385cc1f4df10ab780c8efe713e35e83354a55a4"
+    },
+    {
+      "path": "stringfiles/Russian/FreqCounterManager_SnapIn.ewstr",
+      "bytes": 4262,
+      "sha256": "31b4c8e082fea6cf9599ea94a7e43e5c35386ab211128f95066d8014798125c7"
+    },
+    {
+      "path": "stringfiles/Russian/PCBComponentEdit.ewstr",
+      "bytes": 15840,
+      "sha256": "23d28be77e33a91df27f9aed792e3c1a4cefc2d75f5a064c09e50f2ef2a122e4"
+    },
+    {
+      "path": "stringfiles/Russian/LibraryInterface.ewstr",
+      "bytes": 8570,
+      "sha256": "572d7daf40c32a0511526e527e1afd27feb07e5789f41cf5b4b3cfe90c46e831"
+    },
+    {
+      "path": "stringfiles/Russian/ProbeManager_SnapIn.ewstr",
+      "bytes": 5146,
+      "sha256": "96e70ceadc99bed31a64148809f740d2b916b32ce0f495090ab06a01f00700de"
+    },
+    {
+      "path": "stringfiles/Russian/WaveGuideExt.ewstr",
+      "bytes": 3212,
+      "sha256": "a07439a9ce256ae2853fb95c60ba709c8c631ee0dea917f0e8162370eafa83ca"
+    },
+    {
+      "path": "stringfiles/Russian/StripLineExt.ewstr",
+      "bytes": 3692,
+      "sha256": "6f7f6eba13d5d495cccf4ab8e19b7b08fc7602324f38d6473bfb2e6a5ff5a9e2"
+    },
+    {
+      "path": "stringfiles/Russian/MainInterface.ewstr",
+      "bytes": 40004,
+      "sha256": "0e1329940dc6d7189dba2700b76c3e797a53b2f8cb2615c320cf52b2d7345d4d"
+    },
+    {
+      "path": "stringfiles/Russian/Postprocessor_SnapIn.ewstr",
+      "bytes": 13852,
+      "sha256": "5004399677dec6220f13b62bae49fd1bceab7b4b2629ebaeba73840d8d97d0a2"
+    },
+    {
+      "path": "stringfiles/Russian/Buck_CVT.ewstr",
+      "bytes": 3182,
+      "sha256": "9d8081b169f23851133cc4c744d3596ade09a66141602d2dcad1680d2876df9b"
+    },
+    {
+      "path": "stringfiles/Russian/CompEdit.ewstr",
+      "bytes": 164110,
+      "sha256": "dd636f1012d192134bddea499e49869d9c05700699a2ed849dd4f36e7e0291f1"
+    },
+    {
+      "path": "stringfiles/Russian/Logic_Converter.ewstr",
+      "bytes": 7468,
+      "sha256": "cbb9fd5d801f4379cd4258e67166262179776ede3dafe72f547c6cf9d01d76e0"
+    },
+    {
+      "path": "stringfiles/Russian/DatabaseDisplayString.ewstr",
+      "bytes": 223238,
+      "sha256": "cab01032d95b256ee5ee42bd479701ff9751211d22cfcdab6310870ccc063620"
+    },
+    {
+      "path": "stringfiles/Russian/Multimeter_AT_Manager_SnapIn.ewstr",
+      "bytes": 3506,
+      "sha256": "af79da87d281b02728c65a33bf05d91d5a6a9e5451235bf5700e3f8937c7a400"
+    },
+    {
+      "path": "stringfiles/Russian/PCBObj.ewstr",
+      "bytes": 1910,
+      "sha256": "c44a5f33b807e5ac517bb82336de350d0309600df5b84847f8f9f5bd7f779483"
+    },
+    {
+      "path": "stringfiles/Russian/db_tool.ewstr",
+      "bytes": 16246,
+      "sha256": "e0292b0489f4bb05d399cd7131d0194609f37d72760ed9ad6d616d56c6874bbd"
+    },
+    {
+      "path": "stringfiles/Russian/Cuk_CVT.ewstr",
+      "bytes": 3926,
+      "sha256": "022383651d3ecf19764e196f095d9c5c1604e8a20222c4a6099113d50599f7ef"
+    },
+    {
+      "path": "stringfiles/Russian/GerberExp.ewstr",
+      "bytes": 16390,
+      "sha256": "b201759f771bc38214849e1805d00d4184febbe48f2ff8b00deba6d02a6711ad"
+    },
+    {
+      "path": "stringfiles/Russian/LVInstrument.ewstr",
+      "bytes": 12252,
+      "sha256": "411402cd6bb0560e65892e4ad46c04ce5682d5f9bbef712e5c3e143605582ff2"
+    },
+    {
+      "path": "stringfiles/Russian/RoutKern.ewstr",
+      "bytes": 7256,
+      "sha256": "2233d5bf0afb602a84c04891a6f708ea7183c9faa2178efc644e320cf5ae86a3"
+    },
+    {
+      "path": "stringfiles/Russian/OpAmpExt.ewstr",
+      "bytes": 5276,
+      "sha256": "b84e51fa72fc7cf5329b1169956098e55267530ca215269c8d50a257e45ee600"
+    },
+    {
+      "path": "stringfiles/Russian/Grapher.ewstr",
+      "bytes": 60942,
+      "sha256": "f8176866df4c9e0e564a2bd82dd63bcae4bfcb8589016f59f697386d1057da68"
+    },
+    {
+      "path": "stringfiles/Russian/MultimeterManager_SnapIn.ewstr",
+      "bytes": 4990,
+      "sha256": "5f650b586eb9916e908918b90f86549d8acf2f8f9d5e859d3341a5ef89a85f69"
+    },
+    {
+      "path": "stringfiles/Russian/ZZuniversalEXE.ewstr",
+      "bytes": 27726,
+      "sha256": "cfb7d934ac7de9a001ea08919bdb8cfa92887338f3fe634768c755aad936a679"
+    },
+    {
+      "path": "stringfiles/Russian/PCBWizards.ewstr",
+      "bytes": 25814,
+      "sha256": "364613d5a727562cc84d1244485d6b49d3f4068059d7427e31dc2490b894be29"
+    },
+    {
+      "path": "stringfiles/Russian/MScom.ewstr",
+      "bytes": 2792,
+      "sha256": "bdbbfa3e94c04f4e88f8d7fa83e3ef421eb3230d7908c09dd5d87bb6c57aeb45"
+    },
+    {
+      "path": "stringfiles/Russian/InteractiveComponentManager_SnapIn.ewstr",
+      "bytes": 2504,
+      "sha256": "21ba3b3fdf26b289b262820f0ea273cd539d9655b7c1f0095e1ba0c1077ebf31"
+    },
+    {
+      "path": "stringfiles/Russian/MStripOpenExt.ewstr",
+      "bytes": 3920,
+      "sha256": "b576906c138e0a9e24ed91654ad0821b842701c3b327b569295dd645d3c04eb2"
+    },
+    {
+      "path": "stringfiles/Russian/UBCom.ewstr",
+      "bytes": 1910,
+      "sha256": "c44a5f33b807e5ac517bb82336de350d0309600df5b84847f8f9f5bd7f779483"
+    },
+    {
+      "path": "stringfiles/Russian/LibMng.ewstr",
+      "bytes": 6970,
+      "sha256": "4ad4e59ddd0d9e84bd3d30ee37d06e97b6637645b711217ff8e451efc8517116"
+    },
+    {
+      "path": "stringfiles/Russian/ProbeExtManager_SnapIn.ewstr",
+      "bytes": 9348,
+      "sha256": "fca056172b66b4d8cb53246a0699de6c38eb4d9e41e01abc36d8dacef5ff6b5c"
+    },
+    {
+      "path": "stringfiles/Russian/LibraryAccess.ewstr",
+      "bytes": 19360,
+      "sha256": "ae05d4dc5fb3a747f714a5340d6119d423bd9bdcdbd50f56c7b449ea842c1399"
+    },
+    {
+      "path": "stringfiles/Russian/SCH_CAP.ewstr",
+      "bytes": 256370,
+      "sha256": "9aa51a3ca44497ac5415459510dda1565f1ab84d7664eaf01293cd94f785acfa"
+    },
+    {
+      "path": "stringfiles/Russian/pcb.ewstr",
+      "bytes": 1910,
+      "sha256": "c44a5f33b807e5ac517bb82336de350d0309600df5b84847f8f9f5bd7f779483"
+    },
+    {
+      "path": "stringfiles/Russian/SetAttr.ewstr",
+      "bytes": 7718,
+      "sha256": "02919b2df0278eb8380fd6b41bc99ca453324a3b468dbf8b763c00d32f93c108"
+    },
+    {
+      "path": "stringfiles/Russian/XMLStore.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/DrwGlobalObj.ewstr",
+      "bytes": 7610,
+      "sha256": "dc689200d634091da9e2a2f18d48c2ee91a4019b7a72fdceb1999eb1555ad34a"
+    },
+    {
+      "path": "stringfiles/Russian/ub_db_convert.ewstr",
+      "bytes": 9390,
+      "sha256": "3474d535cc9a11ac8c466460ee35e4ec1c04a79167919b030793f79ca50ea993"
+    },
+    {
+      "path": "stringfiles/Russian/TierMapGeneration.ewstr",
+      "bytes": 2168,
+      "sha256": "bcd11483f8895d5b9d949c36c37c0934344923c7e93b0fedee43d4ce07965c01"
+    },
+    {
+      "path": "stringfiles/Russian/LVUtils.ewstr",
+      "bytes": 798,
+      "sha256": "2e6ac6c8204e62397ee4020b625ee43ca4b3a0c7f822221af58d8f4b326a9168"
+    },
+    {
+      "path": "stringfiles/Russian/MS3dViewer.ewstr",
+      "bytes": 17318,
+      "sha256": "4ce2215705015008157baf6b560edb42a7e4e0725cd1141a3d967bb58c9fe4e8"
+    },
+    {
+      "path": "stringfiles/Russian/Components.ewstr",
+      "bytes": 45390,
+      "sha256": "ac41442da51ead6ebc717b2f70987df1d9598def1d251e939998d9e9cc0665e1"
+    },
+    {
+      "path": "stringfiles/Russian/spice2m.ewstr",
+      "bytes": 10382,
+      "sha256": "397be7600290702a4b3680a0933a406551e9fb868f3824f53e886f0f0cadced0"
+    },
+    {
+      "path": "stringfiles/Russian/PCBExt.ewstr",
+      "bytes": 15264,
+      "sha256": "77b86f8909d4863f69f587194111182e2f7484e699d550790c3cb5a6bee77f28"
+    },
+    {
+      "path": "stringfiles/Russian/FunctionGeneratorManager_SnapIn.ewstr",
+      "bytes": 4376,
+      "sha256": "ddbe43cc98db405382345d43185d43a71ec73e265d64b829b42961d409fc767f"
+    },
+    {
+      "path": "stringfiles/Russian/OD101DLL.ewstr",
+      "bytes": 14108,
+      "sha256": "aef4c419a7487b4b17e6b1ed24ddda3afdfcbe90cc34f3c4284ae03f00fb9375"
+    },
+    {
+      "path": "stringfiles/Russian/DrwEngine.ewstr",
+      "bytes": 68698,
+      "sha256": "9c3e6742c4bb82e4763ac51973e0f285c8f6c298343db6816df8eb2e5dbb6317"
+    },
+    {
+      "path": "stringfiles/Russian/Spy_SnapIn.ewstr",
+      "bytes": 2828,
+      "sha256": "153f15c51a652213bb6e7ac0f8fe31fa69a7cf8a82f7ee0815d9313ef0d540e8"
+    },
+    {
+      "path": "stringfiles/Russian/cpusim.xstr",
+      "bytes": 702,
+      "sha256": "55da1378d2d9e99f42a8f7c93bae0366de9a510ca4a28340a08dacef393d3ea4"
+    },
+    {
+      "path": "stringfiles/Russian/LogicAnalyzerManager_SnapIn.ewstr",
+      "bytes": 6956,
+      "sha256": "2c8892164bb5f3addcf30fb5813ea31b8c6096a6306fe2a6f0eeb7ad343d3674"
+    },
+    {
+      "path": "stringfiles/Russian/MStripGenExt.ewstr",
+      "bytes": 3904,
+      "sha256": "932dca1cc62b1da6f4abca707bb817f299c6bfabe7b81938a48dcaf25749cfb8"
+    },
+    {
+      "path": "stringfiles/Russian/InstUtil.ewstr",
+      "bytes": 3618,
+      "sha256": "5564b4cb4f1c319245754ec0f242b1cf395dcb0ddff25779a5b036f03b64942d"
+    },
+    {
+      "path": "stringfiles/Russian/VHDLParser.ewstr",
+      "bytes": 4646,
+      "sha256": "52bd6c60b264e37b1d55d6b0fdd7288350134368438ad3dab7aa8c43fbc819b7"
+    },
+    {
+      "path": "stringfiles/Russian/3dBase.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/CircMaker.ewstr",
+      "bytes": 47328,
+      "sha256": "621097034a0d824071c50d682fb75c12167ce08e7a6a48734cb1205d0e0b13d3"
+    },
+    {
+      "path": "stringfiles/Russian/WattMeterManager_SnapIn.ewstr",
+      "bytes": 3408,
+      "sha256": "f98356d7abcb23b7fe55f8ec09f63e4d5eb4bba367dd53420be6cb18dfb3d523"
+    },
+    {
+      "path": "stringfiles/Russian/LossyLineExt.ewstr",
+      "bytes": 4772,
+      "sha256": "e77d0474d57dc8d810ee816da563886ed24a14b608f0c2657f7ea3274be8f810"
+    },
+    {
+      "path": "stringfiles/Russian/asysdll.ewstr",
+      "bytes": 87346,
+      "sha256": "bee7908fb346d132c41042da903f20a5dd3fcbfff3bde5a209e7a35c414720bc"
+    },
+    {
+      "path": "stringfiles/Russian/SchematicCapture.ewstr",
+      "bytes": 69126,
+      "sha256": "4b1f2d54b80ecd3683c3a1760fca42c1e4779547460023adda779a998b551149"
+    },
+    {
+      "path": "stringfiles/Russian/OscilloscopeManager_SnapIn.ewstr",
+      "bytes": 7578,
+      "sha256": "7f91b186d7231a762c70ca1c1ea4fa1c0b0fb99657de2ff18396f1c14177b5a6"
+    },
+    {
+      "path": "stringfiles/Russian/SpectralAnalyzerManager_SnapIn.ewstr",
+      "bytes": 7408,
+      "sha256": "40891f4d84afcee908f1708d7faa6775002be995c597870f4fb19a3b1ff0811d"
+    },
+    {
+      "path": "stringfiles/Russian/Library.ewstr",
+      "bytes": 7978,
+      "sha256": "af713f1fe4239a825c620bdcc3a45a134af776ba70c341e1f39a85b990934dc8"
+    },
+    {
+      "path": "stringfiles/Russian/Prefs.ewstr",
+      "bytes": 34616,
+      "sha256": "9557facc357d07fd29aee10c79dee664f455ec6c05194a83ec35a82a0225e580"
+    },
+    {
+      "path": "stringfiles/Russian/DiodExt.ewstr",
+      "bytes": 6840,
+      "sha256": "209e90498c2c4950b5751a7004d254063b402e3a700c636aacc6eb115b437026"
+    },
+    {
+      "path": "stringfiles/Russian/ProtelInterface.ewstr",
+      "bytes": 2518,
+      "sha256": "f3c9ad5e106743ae42192a292f89f05a48e4948d46e016bbb77253cbcceaa5ca"
+    },
+    {
+      "path": "stringfiles/Russian/UB3dViewer.ewstr",
+      "bytes": 10288,
+      "sha256": "23a2352f0894710415148a24a37286c79c5b36ebd043af5dda536fa0da2f14d0"
+    },
+    {
+      "path": "stringfiles/Russian/ACMotor.ewstr",
+      "bytes": 4064,
+      "sha256": "fded3dfd23eec4b4f5494eb329ab22b05430da89b80a78d0cd928af7918e4ffa"
+    },
+    {
+      "path": "stringfiles/Russian/StrLineBendExt.ewstr",
+      "bytes": 3726,
+      "sha256": "9b4cc6e38d446b9e45790758eba15fb707f53f56ae6987ebdfbeae2c5abed365"
+    },
+    {
+      "path": "stringfiles/Russian/TierMatrix.ewstr",
+      "bytes": 1902,
+      "sha256": "d523cb0016e08e84dcc7bddb03af4f37dd14902bbf609da52cb1e2767673a8ed"
+    },
+    {
+      "path": "stringfiles/Russian/FunctionGeneratorManager_AT_SnapIn.ewstr",
+      "bytes": 3516,
+      "sha256": "3cad8c65994778bcef4caa2526cd42fd2235931e58906bfa8614c6da205b746c"
+    },
+    {
+      "path": "stringfiles/Russian/DescriptionBox.ewstr",
+      "bytes": 31638,
+      "sha256": "bd91420a3abc4c6009ca70fc5ebbf2d5ffaef340a1a7cceaab32762447f53d59"
+    },
+    {
+      "path": "stringfiles/Russian/CadObj.ewstr",
+      "bytes": 28768,
+      "sha256": "eeeabfc5e41edb8210b96feac2aab56097856abd157a76c04fd799323bd01b1c"
+    },
+    {
+      "path": "stringfiles/Russian/spiceparser.xstr",
+      "bytes": 23319,
+      "sha256": "266ba5c1bd3d96eae417d23d5b5f12a80abbe61ba759439b9ba14a6b22ce71a6"
+    },
+    {
+      "path": "stringfiles/Russian/CircExp.ewstr",
+      "bytes": 17060,
+      "sha256": "40c7f8027cbceb5fa246328d17d41352d1da3dc13c13f2bebab016cdf168d3bb"
+    },
+    {
+      "path": "stringfiles/Russian/RfCapExt.ewstr",
+      "bytes": 4554,
+      "sha256": "2eb1a1fd7b4479858ae42be4666bc4424770d93cad052382c494e75e2a27492e"
+    },
+    {
+      "path": "stringfiles/Russian/RFSpindExt.ewstr",
+      "bytes": 3566,
+      "sha256": "a972ef5bdf3b7b1f773722bd9d4a69cd583671c854187c1e8a1430bf85d3b8a8"
+    },
+    {
+      "path": "stringfiles/Russian/OrcadInterface.ewstr",
+      "bytes": 3418,
+      "sha256": "b33d29b82844b372f1f03852ede912c37e199b386d0c078a10881df7f8d8047b"
+    },
+    {
+      "path": "stringfiles/Russian/WidgetLibrary.ewstr",
+      "bytes": 5662,
+      "sha256": "59c05480e98e22103112a328dcf3b9140b7ce03abbbea85baa7eb79bc14e3bec"
+    },
+    {
+      "path": "stringfiles/Russian/PlaceKern.ewstr",
+      "bytes": 2952,
+      "sha256": "fe6b419ae83d91fbac1c0291e72f8e8a53671aaf3d246c8b7b8cf74ccb909c79"
+    },
+    {
+      "path": "Enable_NI_Updates.cmd",
+      "bytes": 278,
+      "sha256": "74d5a41548db1f06f1c5231cd8906fecd920a042d10e422120201977ba2c9338"
+    },
+    {
+      "path": "Enable_NI_Updates.ps1",
+      "bytes": 1252,
+      "sha256": "2363c979614ce8ef822821f7451230a7efb07607c3a17188121ededd7b29ee1c"
+    },
+    {
+      "path": "Disable_NI_Updates.cmd",
+      "bytes": 279,
+      "sha256": "a17a0aa2b2a8c2f5e7342d2842ad5f3bca32d4fed5c3d9bec323a144f456ea67"
+    },
+    {
+      "path": "Disable_NI_Updates.ps1",
+      "bytes": 3418,
+      "sha256": "a3144792cedb5adf8803c74b7f47fd188f9ee3345dac8ff1fb79d1b28eef74b4"
+    }
+  ]
+}

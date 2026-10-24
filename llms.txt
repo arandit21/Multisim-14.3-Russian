@@ -1,0 +1,8 @@
+# Русификатор NI Multisim / Circuit Design Suite 14.3
+
+Неофициальный русский языковой комплект для Windows, 146 файлов stringfiles/Russian. Исходный архив VIDEO CORRECTIVE v2 от 06.10.2026 опубликован без изменения содержимого. Перевод частичный: непроверенные строки остаются английскими. Multisim должен быть установлен отдельно. Архив включает необязательные скрипты отключения/восстановления автоматических проверок NI Update Service; их действие общесистемное для продуктов NI. При публикации проверены CRC, состав и SHA-256, GUI и скрипты не запускались.
+
+Репозиторий: https://github.com/arandit21/Multisim-14.3-Russian
+Релиз: https://github.com/arandit21/Multisim-14.3-Russian/releases/tag/multisim-14.3-russian-v2
+Инструкция: README.md
+Проверки и список файлов: verification.json
