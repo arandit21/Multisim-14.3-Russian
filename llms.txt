@@ -6,3 +6,4 @@
 Релиз: https://github.com/arandit21/Multisim-14.3-Russian/releases/tag/multisim-14.3-russian-v2
 Инструкция: README.md
 Проверки и список файлов: verification.json
+Диагностика зависания Database Manager: раздел README «Если зависает Database Manager или меню». На одном компьютере помог чистый пользовательский профиль. Архив перевода не изменён; универсальное исправление всех зависаний не заявляется.
