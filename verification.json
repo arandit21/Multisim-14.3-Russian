@@ -1,14 +1,28 @@
 {
-  "archive_sha256": "0b537ce418331ad72bd1abab74e4a1764a6f93efa4084e114fbd3a5530ec0a5a",
-  "archive_bytes": 548342,
+  "archive_sha256": "2194b259da4eedd97458b46944bc05e96933a15a02b1c1aa70f95104bd45d054",
+  "archive_bytes": 548336,
   "archive_crc_passed": true,
   "relative_paths_checked": true,
   "language_file_count": 146,
   "total_file_count": 151,
-  "archive_contents_unchanged": true,
-  "gui_runtime_tested": false,
+  "archive_contents_unchanged": false,
+  "base_archive_sha256": "0b537ce418331ad72bd1abab74e4a1764a6f93efa4084e114fbd3a5530ec0a5a",
+  "updated_language_files": [
+    "stringfiles/Russian/Database.ewstr",
+    "stringfiles/Russian/PRP.ewstr",
+    "stringfiles/Russian/Db_Convert.ewstr",
+    "stringfiles/Russian/CompEdit.ewstr",
+    "stringfiles/Russian/DatabaseDisplayString.ewstr",
+    "stringfiles/Russian/db_tool.ewstr",
+    "stringfiles/Russian/LibMng.ewstr",
+    "stringfiles/Russian/LibraryAccess.ewstr",
+    "stringfiles/Russian/SCH_CAP.ewstr",
+    "stringfiles/Russian/Components.ewstr",
+    "stringfiles/Russian/SchematicCapture.ewstr"
+  ],
+  "resource_ids_and_placeholders_checked": true,
+  "gui_runtime_tested": "Database Manager with clean profile; user confirmed responsive. Latest text additions require further visual verification.",
   "update_scripts_executed": false,
-  "english_resource_id_and_placeholder_comparison_repeated": false,
   "files": [
     {
       "path": "README_RU_VIDEO_CORRECTIVE.txt",
@@ -167,8 +181,8 @@
     },
     {
       "path": "stringfiles/Russian/Database.ewstr",
-      "bytes": 8400,
-      "sha256": "242d30ccb7fd7017da6e79066bf7743d6c9ca1e0e555ed852d7b7eee577dded3"
+      "bytes": 8380,
+      "sha256": "9e34df2643e8becdfe35d772ed8274bfc230b996c5af12d2403f2032b2beea8e"
     },
     {
       "path": "stringfiles/Russian/XSPICE.xstr",
@@ -237,8 +251,8 @@
     },
     {
       "path": "stringfiles/Russian/PRP.ewstr",
-      "bytes": 131410,
-      "sha256": "65b2d6a35ef0fd0b5714699a7cf42b6129aaa449bed79a5554cc0c65518cbd8e"
+      "bytes": 131442,
+      "sha256": "c0309ac4fbdc0027d9d57cc7b2e7a9f77d1974aae4cd5fb8ae4180413f959905"
     },
     {
       "path": "stringfiles/Russian/EMISimServer.ewstr",
@@ -332,8 +346,8 @@
     },
     {
       "path": "stringfiles/Russian/Db_Convert.ewstr",
-      "bytes": 24220,
-      "sha256": "f088b33adc518c17f290732eacb5a3a3fd64a8720e6eda10f7182c84de0d4d64"
+      "bytes": 24200,
+      "sha256": "04cecce26d1759b0c19accddc013da98d31a87326572341379ccd5cd6a20ad2f"
     },
     {
       "path": "stringfiles/Russian/DXFInterface.ewstr",
@@ -402,8 +416,8 @@
     },
     {
       "path": "stringfiles/Russian/CompEdit.ewstr",
-      "bytes": 164110,
-      "sha256": "dd636f1012d192134bddea499e49869d9c05700699a2ed849dd4f36e7e0291f1"
+      "bytes": 164332,
+      "sha256": "4f739db17383ec8e3dfc50692901aad21a577e15ca280091608b2189b265a4aa"
     },
     {
       "path": "stringfiles/Russian/Logic_Converter.ewstr",
@@ -412,8 +426,8 @@
     },
     {
       "path": "stringfiles/Russian/DatabaseDisplayString.ewstr",
-      "bytes": 223238,
-      "sha256": "cab01032d95b256ee5ee42bd479701ff9751211d22cfcdab6310870ccc063620"
+      "bytes": 223296,
+      "sha256": "410e7e3afa39e5cfcdfab73d082de675b7fcb90bd7ebfab688db0b263d0174cd"
     },
     {
       "path": "stringfiles/Russian/Multimeter_AT_Manager_SnapIn.ewstr",
@@ -427,8 +441,8 @@
     },
     {
       "path": "stringfiles/Russian/db_tool.ewstr",
-      "bytes": 16246,
-      "sha256": "e0292b0489f4bb05d399cd7131d0194609f37d72760ed9ad6d616d56c6874bbd"
+      "bytes": 16262,
+      "sha256": "8ffb1b2bd66f3a8d2d081ffc387e9c17efee0970078663c1a3562198a6788a96"
     },
     {
       "path": "stringfiles/Russian/Cuk_CVT.ewstr",
@@ -497,8 +511,8 @@
     },
     {
       "path": "stringfiles/Russian/LibMng.ewstr",
-      "bytes": 6970,
-      "sha256": "4ad4e59ddd0d9e84bd3d30ee37d06e97b6637645b711217ff8e451efc8517116"
+      "bytes": 6976,
+      "sha256": "aab14984401fe6b4cebbac414701d43a82e2b17d2b3e50e1b5ed621df5110911"
     },
     {
       "path": "stringfiles/Russian/ProbeExtManager_SnapIn.ewstr",
@@ -507,13 +521,13 @@
     },
     {
       "path": "stringfiles/Russian/LibraryAccess.ewstr",
-      "bytes": 19360,
-      "sha256": "ae05d4dc5fb3a747f714a5340d6119d423bd9bdcdbd50f56c7b449ea842c1399"
+      "bytes": 19368,
+      "sha256": "e845e1417dd71ec1fab9a8965ac7c1e508f3826321bc8d39b09a915c2416e995"
     },
     {
       "path": "stringfiles/Russian/SCH_CAP.ewstr",
-      "bytes": 256370,
-      "sha256": "9aa51a3ca44497ac5415459510dda1565f1ab84d7664eaf01293cd94f785acfa"
+      "bytes": 256376,
+      "sha256": "ffd775dcd9c917cd87b64ec1af7ea827f8d268c987e16dbd14c20ab20fc5b60b"
     },
     {
       "path": "stringfiles/Russian/pcb.ewstr",
@@ -557,8 +571,8 @@
     },
     {
       "path": "stringfiles/Russian/Components.ewstr",
-      "bytes": 45390,
-      "sha256": "ac41442da51ead6ebc717b2f70987df1d9598def1d251e939998d9e9cc0665e1"
+      "bytes": 46352,
+      "sha256": "c6da0fc2d192fef3b2dc0f29bca3b2246cb79f3aa9c3345a2fc28f6eb8e55319"
     },
     {
       "path": "stringfiles/Russian/spice2m.ewstr",
@@ -642,8 +656,8 @@
     },
     {
       "path": "stringfiles/Russian/SchematicCapture.ewstr",
-      "bytes": 69126,
-      "sha256": "4b1f2d54b80ecd3683c3a1760fca42c1e4779547460023adda779a998b551149"
+      "bytes": 69140,
+      "sha256": "8a0c2aaac35f409013d046c7629d9bfb8d6f4df0cee38430f59a0d2dbe6b9101"
     },
     {
       "path": "stringfiles/Russian/OscilloscopeManager_SnapIn.ewstr",
