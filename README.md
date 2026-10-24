@@ -90,4 +90,4 @@ NI Multisim 14.3, Multisim Circuit 14.3, Circuit Design Suite 14.3, русифи
 
 ![Русский интерфейс Multisim 14.3](docs/images/multisim-russian-interface.png)
 
-Снимок предоставлен пользователем и сделан до последнего дополнения подсказок.
+
